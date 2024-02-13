@@ -1,0 +1,1 @@
+La carpeta archivos no se reconoció hasta que en ella hubo un elemento (el elemento respuestas) y hasta ese momento no dejaba hacer el commit
