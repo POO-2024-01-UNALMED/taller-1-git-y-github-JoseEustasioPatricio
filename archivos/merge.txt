@@ -2,3 +2,4 @@ Jose Eustasio Patricio Forero Perdomo
 edad: 26
 Con la materia Programacion orientada a objetos planeo ampliar mis conocimientos acerca de programacion y con los temas que veamos en clase
 aumentar mis aptitudes como estudiante de ingenieria en sistemas.
+La carpeta archivos no se reconoció hasta que en ella hubo un elemento (el elemento respuestas) y hasta ese momento no dejaba hacer el commit
